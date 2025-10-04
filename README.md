@@ -31,6 +31,6 @@
 
 ## 📬 Contact Me
 - 📧 Email: bisquerajoyce30@gmail.com  
-- 🔗 GitHub: [JuicelynBisquera](https://github.com/JuicelynBisquera)  
+- 🔗 GitHub: [https://github.com/juicelyn10](https://github.com/JuicelynBisquera)  
 
 🥀 _“Keep learning, keep building, and keep growing!”_ 🥀
