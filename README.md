@@ -25,7 +25,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Juicelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuicelynBisquera&show_icons=true&theme=tokyonight)
+![Juicelyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juicelyn10&show_icons=true&theme=tokyonight)
 
 ---
 
